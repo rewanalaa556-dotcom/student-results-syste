@@ -1,0 +1,36 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #253858;
+    font-weight: bold;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.form-control {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.btn {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#studentsDisplay {
+    margin-top: 10px;
+}
+
+#errorMessage {
+    font-weight: bold;
+}
+
+#reportDisplay {
+    margin-top: 10px;
+}
